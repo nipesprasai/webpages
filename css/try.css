@@ -1,0 +1,22 @@
+h1{
+	color: #FF0000;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+
+li{
+	color: green;
+}
+h4{
+	background: rgb(255,100,0);
+}
+
+body{
+
+	background: pink;
+
+	/*background: url(../images/nature.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
